@@ -3,13 +3,13 @@
   <!-- Epic Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=200&section=header&text=ZEESHAN%20FIROZ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Animation%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
   
-  <!-- Snake Animation -->
+  <!-- Snake Animation 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zeeshanfiroz/Zeeshanfiroz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zeeshanfiroz/Zeeshanfiroz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zeeshanfiroz/Zeeshanfiroz/output/github-contribution-grid-snake.svg">
   </picture>
-  
+  -->
   <br/><br/>
   
   <!-- Multi-line Advanced Typing Animation -->
